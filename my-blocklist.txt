@@ -1,0 +1,4 @@
+# Fahmi personal blocklist - 12 Nov 2026
+# Verified ad redirector dari Aniwaves
+0.0.0.0 worncalmy.cfd
+0.0.0.0 rufouskettles.click
