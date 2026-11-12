@@ -1,0 +1,23 @@
+! Title: Fahmi Brave Filter - 12 Nov 2026
+! Description: Block Aniwaves popup ads yang curi fingerprint
+
+||worncalmy.cfd^
+||rufouskettles.click^
+||stipesmidship.click^
+||getter.cfd^
+||content-loader.com^$document,popup
+||a11.click^
+||tripedrated.xyz^$popup
+||news-xcaxuxe.cc^
+||youdilgad.top^
+||goatmod.xyz^
+||andespath.top^
+||captchasee.live^
+||trackr.cfd^
+||reffpa.com^
+||webflix.bio^$popup
+||aniwaves.tv^$popup
+||*.click^$popup
+||*.cfd^$popup
+||blo-whatsapp.com^
+||payproofkit.com^
