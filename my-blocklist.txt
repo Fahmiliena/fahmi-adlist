@@ -17,3 +17,4 @@
 0.0.0.0 webflix.bio
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 payproofkit.com
+0.0.0.0 crn77.com
