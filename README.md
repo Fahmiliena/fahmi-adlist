@@ -1,2 +1,2 @@
 # fahmi-adlist
-Block Ads &amp; Pop up Ads
+Block Ads for Mikrotik hAp ac3
