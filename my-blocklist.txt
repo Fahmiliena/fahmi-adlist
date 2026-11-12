@@ -3,8 +3,6 @@
 0.0.0.0 worncalmy.cfd
 0.0.0.0 rufouskettles.click
 0.0.0.0 stipesmidship.click
-
-# Latest popup ads reported 9-12 Nov 2026
 0.0.0.0 getter.cfd
 0.0.0.0 content-loader.com
 0.0.0.0 a11.click
@@ -17,3 +15,5 @@
 0.0.0.0 trackr.cfd
 0.0.0.0 reffpa.com
 0.0.0.0 webflix.bio
+0.0.0.0 blo-whatsapp.com
+0.0.0.0 payproofkit.com
