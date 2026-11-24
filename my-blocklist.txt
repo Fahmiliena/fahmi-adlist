@@ -18,3 +18,4 @@
 0.0.0.0 blo-whatsapp.com
 0.0.0.0 payproofkit.com
 0.0.0.0 crn77.com
+0.0.0.0 redirectthisclick.buzz
