@@ -1,13 +1,16 @@
-! Title: Fahmi Brave Filter - 12 Nov 2026
-! Description: Block Aniwaves popup ads yang curi fingerprint
-
+[Adblock Plus]
+! Title: Fahmi Personal Blocklist - Brave
+! Description: Verified ad redirector dari Aniwaves + Google ads
+! Version: 28 Nov 2026
+! Expires: 1 day
+! Homepage: https://github.com/Fahmiliena/fahmi-adlist
 ||worncalmy.cfd^
 ||rufouskettles.click^
 ||stipesmidship.click^
 ||getter.cfd^
-||content-loader.com^$document,popup
+||content-loader.com^
 ||a11.click^
-||tripedrated.xyz^$popup
+||tripedrated.xyz^
 ||news-xcaxuxe.cc^
 ||youdilgad.top^
 ||goatmod.xyz^
@@ -15,11 +18,10 @@
 ||captchasee.live^
 ||trackr.cfd^
 ||reffpa.com^
-||webflix.bio^$popup
-||aniwaves.tv^$popup
-||*.click^$popup
-||*.cfd^$popup
+||webflix.bio^
 ||blo-whatsapp.com^
 ||payproofkit.com^
 ||crn77.com^
 ||redirectthisclick.buzz^
+||pagead2.googlesyndication.com^
+||google-analytics.com^
