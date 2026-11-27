@@ -1,6 +1,8 @@
-! Title: Fahmi wBlock Filter - 12 Nov 2026
-! Description: Block Aniwaves popup ads untuk Safari / wBlock - tanpa $popup, selamat untuk Safari
-
+! Title: Fahmi Personal Blocklist - wBlock
+! Description: Verified ad redirector dari Aniwaves + Google ads
+! Version: 28 Nov 2026
+! Expires: 1 day
+! Homepage: https://github.com/Fahmiliena/fahmi-adlist
 ||worncalmy.cfd^
 ||rufouskettles.click^
 ||stipesmidship.click^
@@ -20,3 +22,5 @@
 ||payproofkit.com^
 ||crn77.com^
 ||redirectthisclick.buzz^
+||pagead2.googlesyndication.com^
+||google-analytics.com^
